@@ -6,29 +6,29 @@
 
 > En esta herramienta he añadido algo de apuntes aleatorios para que veais como funciona , pero esto lo podeis implementar con todos los vuestros
 
-![[Pasted image 20230222161352.png]]
+![Uploading imagen.png…](
 
 1. **all_data.txt** : Archivo donde se encuntran los apuntes
 2. **consolecheat.sh** : Archivo ejecutable
 
 ## En ejecución
-![[Pasted image 20230222161523.png]]
+![imagen](https://user-images.githubusercontent.com/78491659/220668689-27a5a205-490b-46e4-b7f1-7cdcd37fff28.png)
 
 > Vamos a hacer la prueba de buscar los apuntes que hablen sobre los PERMISOS
 
-![[Pasted image 20230222161610.png]]
+![imagen](https://user-images.githubusercontent.com/78491659/220668783-d9820998-b829-406d-b0b2-a906e6b78a2e.png)
 
 
 ## Explicación de el código
-![[Pasted image 20230222162048.png]]
+![imagen](https://user-images.githubusercontent.com/78491659/220668901-b7cd27c5-73e0-46b4-ab98-023a9bdade9a.png)
 
-![[Pasted image 20230222161855.png]]
+![imagen](https://user-images.githubusercontent.com/78491659/220668987-04bb0ec2-ea3b-4590-b95b-9b697d4571a9.png)
 
 > Este es el archivo "all_data.txt" , como vemos lo que hemos buscado anterirormente se encuentra entre dos "Sentencias" (:S.PERMISOS) , lo que hace el script es buscar todo lo que este entre esa sentencia y reportarlo por pantalla
 
 > El core de la herramienta se basa en la siguente función:
 
-![[Pasted image 20230222161715.png]]
+![imagen](https://user-images.githubusercontent.com/78491659/220669054-637b794a-dd3d-4a75-9581-c78a7cfd5f60.png)
 
 # Versión
 > Actualmente esta en la versión v1.0
