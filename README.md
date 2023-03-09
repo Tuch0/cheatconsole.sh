@@ -6,8 +6,6 @@
 
 > En esta herramienta he añadido algo de apuntes aleatorios para que veais como funciona , pero esto lo podeis implementar con todos los vuestros
 
-![Uploading imagen.png…](
-
 1. **all_data.txt** : Archivo donde se encuntran los apuntes
 2. **consolecheat.sh** : Archivo ejecutable
 
